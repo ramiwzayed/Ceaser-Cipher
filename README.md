@@ -32,7 +32,7 @@ L number 11 so C = 11 + 3 = 14 = O
 
 O number 14 so C = 14 + 3 = 17 = R
 
-** KHOOR **
+**KHOOR**
 #### Dencrypt Solution
 M = (P - K) mod 26 
 
@@ -46,7 +46,7 @@ O number 14 - 3 = 11 = L
 
 R number = 17 - 3 = 14 = O 
 
-** HELLO **
+**HELLO**
 # Simple Solution
 Simple Solution you can use Caeser Cipher without using mod 26 means.
 
