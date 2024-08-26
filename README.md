@@ -55,7 +55,9 @@ if K = 3 u have to move 3 to right same with K = -3 move 3 to left and put the l
 
 1. When u want to use Caeser Cipher with English letters you have to use mod 26 to stay in the range of letters
    
-2. Caeser Cipher it's Circular algorithm means if the word had "Y number 24 + 3 it's 27" letter and the key is 3 when u encrypt it "Y" = "B" //// Important point everything about the key, The Key can be changed anytime but the numbers of letters no.
+2. Caeser Cipher it's Circular algorithm means if the word had "Y number 24 + 3 it's 27" letter and the key is 3 when u encrypt it "Y" = "B"
+  
+ # Important point everything about the key, The Key can be changed anytime but the numbers of letters no.
 
 
 
